@@ -1,0 +1,21 @@
+body{
+    background-color: lightpink;
+    display: flexbox;
+
+}
+.heading{
+    display: flex;
+    align-items: center;
+}
+.logocontainer{
+    display: flex;
+    align-items: center;
+}
+.products{
+    
+    
+    font-size: 70px;
+    
+    
+    padding: 50px 100px;
+}
